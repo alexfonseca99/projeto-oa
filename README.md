@@ -2,8 +2,8 @@
 
 Projeto da UC Otimização e Algoritmos.
 
-Formulação de problemas (Biblioteca de otimização cvxpy: https://www.cvxpy.org/)
+1. Formulação de problemas (Biblioteca de otimização cvxpy: https://www.cvxpy.org/)
 
-Implementação de alguns algoritmos de otimização como Gradient Descent, Newton (problemas convexos).
+2. Implementação de alguns algoritmos de otimização como Gradient Descent, Newton (problemas convexos).
 
-Redução de dimensionalidade e algoritmos de otimização não-convexos como Levenberg-Marquardt.
+3. Redução de dimensionalidade e algoritmos de otimização não-convexos como Levenberg-Marquardt.
