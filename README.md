@@ -1,9 +1,9 @@
-# projeto-oa
+# project-oa
 
-Projeto da UC Otimização e Algoritmos.
+Optimization and Algorithms course project
 
-1. Formulação de problemas (Biblioteca de otimização cvxpy: https://www.cvxpy.org/)
+1. Convex problem forrmulation (cvxpy: https://www.cvxpy.org/)
 
-2. Implementação de alguns algoritmos de otimização como Gradient Descent, Newton (problemas convexos).
+2. Implementing algorithms for convex problems (Gradient Descent, Newton Method).
 
-3. Redução de dimensionalidade e algoritmos de otimização não-convexos como Levenberg-Marquardt.
+3. Dimensionality reduction and non-convex algorithms (Levenberg-Marquardt algorithm).
